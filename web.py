@@ -36,5 +36,5 @@ def upload_image():
     
     return render_template('chooseFile.html')
 
-if __name__ == "__main__":
-    app.run(debug=True,port = 7900)
+# if __name__ == "__main__":
+#     app.run(debug=True,port = 7900)
